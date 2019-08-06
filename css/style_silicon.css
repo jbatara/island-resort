@@ -1,0 +1,13 @@
+.navbar{
+  z-index:9;
+}
+#frontPageCarousel{
+  position:absolute;
+  z-index:-3;
+  width:100%;
+  top:0;
+}
+
+.hometext{
+ padding-top: 900px
+}
