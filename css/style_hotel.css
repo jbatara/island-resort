@@ -22,4 +22,12 @@ body{
 
 footer{
   background-color: #a4d7e1;
+  position: relative;
+  bottom: 0;
+  width:100%;
+
+}
+
+ul{
+  padding:0;
 }
