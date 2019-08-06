@@ -4,6 +4,7 @@ header{
 
 body{
   font-family: serif;
+
 }
 .navbar{
   z-index:9;
@@ -16,7 +17,8 @@ body{
 }
 
 .hometext{
- padding-top: 900px
+ padding-top: 700px;
+
 }
 
 .followbuttons{
@@ -33,4 +35,9 @@ body{
 footer{
   text-align: center;
   font-family:serif;
+}
+
+.contact{
+  text-decoration: none;
+  color: 	#A9A9A9;
 }
