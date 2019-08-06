@@ -1,3 +1,10 @@
+header{
+  font-family: serif;
+}
+
+body{
+  font-family: serif;
+}
 .navbar{
   z-index:9;
 }
@@ -10,4 +17,20 @@
 
 .hometext{
  padding-top: 900px
+}
+
+.followbuttons{
+  width: 50px;
+  height:auto;
+
+}
+
+.brand{
+  font-size:4em;
+  color: black;
+}
+
+footer{
+  text-align: center;
+  font-family:serif;
 }
