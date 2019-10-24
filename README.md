@@ -19,7 +19,7 @@ _None_
 
 ## Support and contact details
 
-_Let us know if you have any questions! Anita: anita.k.kemp@gmail.com  Jennifer: jennifer.batara.dev@gmail.com_
+Please notify the developers of any bugs or issues on the [issues tab](https://github.com/jbatara/island-resort/issues) of this repo.
 
 ## Technologies Used
 
